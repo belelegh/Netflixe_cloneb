@@ -1,5 +1,5 @@
 {
-  "homepage": "https://belelegh.github.io/Netflixe_cloneb",
+  "homepage": "https://belelegh.github.io/Netflixe_cloneb/",
   "name": "package.jason",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "lint": "eslint .",
     "preview": "vite preview"
